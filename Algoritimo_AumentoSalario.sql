@@ -1,4 +1,4 @@
------------------------ALGORITIMO AUMENTO DE SAL�RIO------------------------
+-----------------------ALGORITIMO AUMENTO DE SALARIO------------------------
 
 Begin
 	declare @salario smallmoney, @novoSalario smallmoney, @reajuste int
